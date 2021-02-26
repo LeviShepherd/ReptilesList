@@ -15,7 +15,7 @@ import model.ListReptile;
 
 public class ListReptileHelper {
 
-	static EntityManagerFactory emfactory = Persistence.createEntityManagerFactory("ReptilesList");
+	static EntityManagerFactory emfactory = Persistence.createEntityManagerFactory("WebReptilesList");
 	
 	public void insertReptile(ListReptile lr) {
 		EntityManager em = emfactory.createEntityManager();
