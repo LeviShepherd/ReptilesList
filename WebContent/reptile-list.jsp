@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Reptile List</title>
 </head>
 <body>
 	<form method="post" action="navigationServlet">
